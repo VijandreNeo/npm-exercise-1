@@ -11,3 +11,5 @@ TEL;type=WORK:09774943118
 FN:Neo Jan Erich A. Vijandre
 N:Neo Vijandre
 END:VCARD`);
+
+console.log(sensor);
